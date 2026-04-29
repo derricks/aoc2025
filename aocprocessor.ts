@@ -20,4 +20,3 @@ export class AoCProcessor {
         lineProcessor.finish()
     }
 }
-
